@@ -7,4 +7,3 @@ before_install:
 
 script:
   - docker run larsnohrstedt/docker-react npm run test -- --coverage
-  
